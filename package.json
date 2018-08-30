@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "express": "^4.16.3",
+    "serve-static": "^1.13.2",
     "vue": "^2.5.17"
   },
   "devDependencies": {
